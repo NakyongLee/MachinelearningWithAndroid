@@ -2,24 +2,24 @@
 
 
 
-Preprocessing
+Preprocessing\n
  +Remove Special Characters
  +Okt
  +Vectorizer(Count, TF-IDF)
  +Tokenizer(keras)
  +Remove Stopwords
 
-Model
+Model\n
  +LinearSVM
  +Naive Bayes
  +LSTM
  +CNN
  +CNN-LSTM
 
-Server
+Server\n
  +Apache
  +Django Web Framework
  +CentOS
 
-Application
+Application\n
  +Android Studio
